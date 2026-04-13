@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack">Installation</a> • <a href="https://github.com/BeastlyDude1234/Obvious-Ores/issues">Issues</a> • <a href="https://github.com/BeastlyDude1234">More</a></p>
 
-This resource pack was created to make ores easier to see while caving and mining. The textures are not necessarily designed for looks but more so for functionality. (If you want one that looks a little nicer I plan on releasing an outlined ores resource pack sometime.)
+This resource pack was created to make ores easier to see while caving and mining. The textures are not necessarily designed for looks but more so for functionality.
 
 <details>
 <summary>Compatibility</summary>
